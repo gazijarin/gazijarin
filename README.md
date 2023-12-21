@@ -3,7 +3,7 @@
 I'm [**Gazi**](https://gazijarin.com), a software engineer from Toronto, Canada.
 
 I'm primarily interested in **full-stack development** and currently work as a
-software engineer at [**@Amazon**](https://github.com/amazon).
+software engineer at [**@Amazon**](https://github.com/aws).
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services as well as apps that have 100M+ installs. I have contributed to major feature launches and automating systems in customer-facing consoles with high traffic.
 
