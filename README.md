@@ -10,5 +10,5 @@ I'm fascinated by large-scale, high-impact products and have worked on industry-
 Outside of work, I'm interested in following the developments of science. I also play a lot of video games and make tech-related TikToks (470,000 followers and counting).
 
 #### Let's connect!
-[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@gazijarin)
+[<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@gazijarin.ai)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/gazijarin)
